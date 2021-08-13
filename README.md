@@ -1,14 +1,14 @@
 # Ultimate-AWS-Solutions-Architect-Course-SAA-C02-
 
-Original course by Stéphane Maarek. Personal notes by Zi (Michael) Wang. 
+Original course by Stéphane Maarek: https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
+
+Forked study guide by keenanromain: https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
+
+Personal notes by Zi (Michael) Wang. 
 
 I will be using this page as a means in re-learning by re-writing my notes.
 
 If you deem them useful, they are completely open to you so do with them with what you like.
-
-## Course
-
-Locate the course here: https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
 
 ## Table of Contents
 1. <a href="#introduction">Introduction</a>
