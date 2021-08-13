@@ -6,7 +6,7 @@ Read me/study guide template by keenanromain: https://github.com/keenanromain/AW
 
 Personal notes by Zi (Michael) Wang. 
 
-I will be using this page as a means in re-learning by re-writing my notes.
+I will be using this page to review and rewrite my notes in prepping for the exam.
 
 If you deem them useful, they are completely open to you so do with them with what you like.
 
