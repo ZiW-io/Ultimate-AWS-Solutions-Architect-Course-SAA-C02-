@@ -2,7 +2,7 @@
 
 Original course by Stéphane Maarek: https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02
 
-Forked study guide by keenanromain: https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
+Read me/study guide template by keenanromain: https://github.com/keenanromain/AWS-SAA-C02-Study-Guide
 
 Personal notes by Zi (Michael) Wang. 
 
