@@ -2,6 +2,6 @@
 
 Original course by Stéphane Maarek. Personal notes by Michael Wang. 
 
-If anyone wishes to use them, they completely open to you. 
+If anyone wishes to use them, they are completely open to you. 
 
 Do with them what you like! 
